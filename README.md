@@ -2,8 +2,8 @@
 
 <img src="src/assets/icon-dice.svg" alt="Dice icon" width="64" height="64" />
 
+#Live Demo : [click](https://random-advice-1xzc.vercel.app/)
 # Random Advice Generator
-
 A clean, responsive web app that serves a fresh piece of advice at the roll of a dice.
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev)
